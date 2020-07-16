@@ -1,5 +1,5 @@
 import React from 'react';
-import { weatherData } from './weatherData';
+
 
 const Card = (props) => {
     const { time, temperature, condition } = props;
